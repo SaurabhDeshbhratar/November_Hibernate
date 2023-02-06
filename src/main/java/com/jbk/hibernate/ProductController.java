@@ -24,6 +24,7 @@ public class ProductController {
 			System.out.println("press 4 for update product by Id");
 			System.out.println("press 5 for get all products");//for Criteria and Restriction
 			System.out.println("press 6 for get all products");//Restriction.like from users
+			System.out.println("press 7 for get all products");
 
 			int choice = scanner.nextInt();
 
